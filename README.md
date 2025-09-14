@@ -132,7 +132,8 @@ GET /api/ratings/:storeId → Get ratings for a store
 
 🖼️ Screenshots
 
-(Add your screenshots here once UI is ready!)
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/7333c79e-8d67-4d04-9066-1ea7b34ea9b6" />
+
 
 🤝 Contribution
 
